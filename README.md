@@ -4,7 +4,7 @@ class Belin7z:
     Role: Full Stack Developer & Automation Enthusiast
     """
     def __init__(self):
-        self.nome: str = "Jefferson Alves"
+        self.name: str = "Jefferson Alves"
         self.role: str = "Developer Self Bot"
         self.stack: list[str] = ["Python", "Django", "JavaScript", "PostgreSQL"]
         self.foco: str = "Sistemas de Gestão e Análise de Dados"
