@@ -1,3 +1,4 @@
+```python
 class Belin7z:
     """
     Profile: Jefferson Alves
@@ -18,11 +19,12 @@ class Belin7z:
         }
 
     def __str__(self) -> str:
-        return f"💻 {self.nome} | {self.role} | {self.status}"
+        return f"🖥 {self.name} | {self.role} | {self.status}"
 
 # Instanciando o perfil
 eu = Belin7z()
 
 if __name__ == "__main__":
     print(eu)
-    # Output: 💻 Jefferson Alves | Developer Self Bot | 🚀 Desenvolvendo por hobby & profissionalmente
+    # Output: 🖥 Jefferson Alves | Developer Self Bot | 🚀 Desenvolvendo por hobby & profissionalmente
+```
