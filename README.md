@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+o+Belin7z+%F0%9F%91%8B;Full+Stack+Developer;Bot+%26+Automation+Enthusiast;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+o+Belin7z+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Bot+%26+Automation+Enthusiast+%F0%9F%A4%96;Sempre+codando+algo+novo..." alt="Typing SVG" />
 
 <br/>
 
@@ -40,6 +40,38 @@ const Belin7z = {
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 </div>
+
+---
+
+## 🐍 Snake comendo minhas contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Belin7z/Belin7z/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Belin7z/Belin7z/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Belin7z/Belin7z/output/ocean.gif" />
+</picture>
+
+</div>
+
+---
+
+## 🎮 Jogue Jokenô comigo!
+
+> Você consegue me vencer? Clique em uma das opções abaixo para jogar! 🔥
+
+<div align="center">
+
+| | Sua jogada | Link |
+|:---:|:---:|:---:|
+| ✊ | **Pedra** | [Jogar Pedra](https://github.com/Belin7z/Belin7z/issues/new?title=jokenpo%3A+pedra&body=%F0%9F%91%8B+Ol%C3%A1+Belin7z%21+Escolhi+%E2%9C%8A+PEDRA%21+Vamos+ver+quem+ganha...&labels=jokenpo) |
+| ✋ | **Papel** | [Jogar Papel](https://github.com/Belin7z/Belin7z/issues/new?title=jokenpo%3A+papel&body=%F0%9F%91%8B+Ol%C3%A1+Belin7z%21+Escolhi+%E2%9C%8B+PAPEL%21+Vamos+ver+quem+ganha...&labels=jokenpo) |
+| ✌️ | **Tesoura** | [Jogar Tesoura](https://github.com/Belin7z/Belin7z/issues/new?title=jokenpo%3A+tesoura&body=%F0%9F%91%8B+Ol%C3%A1+Belin7z%21+Escolhi+%E2%9C%8C%EF%B8%8F+TESOURA%21+Vamos+ver+quem+ganha...&labels=jokenpo) |
+
+</div>
+
+> 🤖 Um bot automaticamente responde a jogada e fecha a issue! Experimente!
 
 ---
 
