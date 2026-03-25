@@ -16,7 +16,7 @@
 ```javascript
 const Belin7z = {
   nome:     "Jefferson Alves",
-  role:     "Full Stack Developer & Bot Enthusiast",
+  role:     "Full Stack Developer & Bot automatic",
   stack:    ["JavaScript", "Node.js", "Python", "HTML", "CSS"],
   foco:     "Sistemas de Gestão e Automação",
   status:   "🚀 Sempre desenvolvendo algo novo",
