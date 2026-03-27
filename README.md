@@ -10,18 +10,18 @@
 </div>
 
 <p align="center">
-  Desenvolvimento focado em bots, automacoes e aplicacoes web com mais estrutura, clareza e presenca visual.
+  Desenvolvimento focado em bots, automações e aplicações web com mais estrutura, clareza e presença visual.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Belin7z?tab=repositories">Repositorios</a> |
+  <a href="https://github.com/Belin7z?tab=repositories">Repositórios</a> |
   <a href="https://github.com/Belin7z">Perfil</a>
 </p>
 
 ## Sobre mim
 
 <p align="center">
-  Bots para Discord, automacoes e aplicacoes web com foco em estrutura e boa experiencia de uso.
+  Bots para Discord, automações e aplicações web com foco em estrutura e boa experiência de uso.
 </p>
 
 <p align="center">
@@ -29,9 +29,9 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Foco-Bots%20%7C%20Automacoes%20%7C%20Web-7c3aed?style=for-the-badge&labelColor=09090b" alt="Foco" />
+  <img src="https://img.shields.io/badge/Foco-Bots%20%7C%20Automa%C3%A7%C3%B5es%20%7C%20Web-7c3aed?style=for-the-badge&labelColor=09090b" alt="Foco" />
   <img src="https://img.shields.io/badge/Atual-Design%20Digital%20e%20UX-ffffff?style=for-the-badge&labelColor=09090b&logoColor=09090b" alt="Atual" />
-  <img src="https://img.shields.io/badge/Status-Projetos%20em%20evolucao-7c3aed?style=for-the-badge&labelColor=09090b" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Projetos%20em%20evolu%C3%A7%C3%A3o-7c3aed?style=for-the-badge&labelColor=09090b" alt="Status" />
 </div>
 
 ## Stack
@@ -63,14 +63,14 @@
   <img height="170" src="https://streak-stats.demolab.com?user=Belin7z&theme=midnight-purple&hide_border=true" alt="GitHub streak" />
 </div>
 
-## Contribution Snake
+## Minha atividade por aqui
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Belin7z/Belin7z/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Belin7z/Belin7z/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Belin7z/Belin7z/output/ocean.gif" />
-  </picture>
+  Visualização das contribuições no perfil.
+</div>
+
+<div align="center">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Belin7z/Belin7z/output/github-snake-dark.svg" />
 </div>
 
 ## Contato
