@@ -20,35 +20,19 @@
 
 ## Sobre mim
 
-<table>
-  <tr>
-    <td width="56%" valign="top">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1400&color=0EA5E9&center=true&vCenter=true&width=820&lines=Oi%2C+eu+sou+o+Belin7z;Full+Stack+Developer;Criando+bots+para+Discord;Automacoes%2C+paineis+e+projetos+web;Estudando+Design+Digital+e+UX" alt="Sobre mim animado" />
+</div>
 
-**Jefferson Alves**, tambem conhecido como **Belin7z**.
+<p align="center">
+  TypeScript • JavaScript • Python • Node.js • HTML • CSS
+</p>
 
-Hoje meu foco esta em criar bots para Discord, automacoes e projetos web que sejam uteis de verdade no dia a dia. Gosto de mexer tanto na parte funcional quanto no visual, principalmente quando o projeto precisa ficar mais organizado, rapido e facil de usar.
-
-Trabalho mais com **TypeScript, JavaScript, Python, Node.js, HTML e CSS**, e costumo explorar banco de dados, paineis web e melhorias de interface no mesmo projeto.
-
-  </td>
-  <td width="44%" valign="top">
-
-**Aqui no perfil voce vai ver**
-
-- Bots para comunidades e servidores
-- Ferramentas web e paineis
-- Automacoes para facilitar rotina
-- Projetos que ainda estou evoluindo
-
-**No momento**
-
-- Estudando Design Digital e UX
-- Refinando front-end e organizacao de codigo
-- Aberto a colaboracoes e freelas
-
-  </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://img.shields.io/badge/Foco-Bots%20%7C%20Automacoes%20%7C%20Web-0f172a?style=for-the-badge&labelColor=0ea5e9" alt="Foco" />
+  <img src="https://img.shields.io/badge/Atualmente-Design%20Digital%20e%20UX-f97316?style=for-the-badge&labelColor=0f172a" alt="Atualmente" />
+  <img src="https://img.shields.io/badge/Status-Projetos%20em%20evolucao-22c55e?style=for-the-badge&labelColor=0f172a" alt="Status" />
+</div>
 
 ## Stack
 
