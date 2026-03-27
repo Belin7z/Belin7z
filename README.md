@@ -5,7 +5,7 @@
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/Belin7z?style=for-the-badge&logo=github&label=Followers&color=7c3aed&labelColor=09090b)](https://github.com/Belin7z)
-![Profile views](https://komarev.com/ghpvc/?username=Belin7z&style=for-the-badge&color=ffffff&labelColor=09090b)
+![Visitas no perfil](https://komarev.com/ghpvc/?username=Belin7z&style=for-the-badge&label=Visitas&color=7c3aed&labelColor=09090b)
 
 </div>
 
@@ -20,35 +20,9 @@
 
 ## Sobre mim
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="58%" valign="top">
-
-Atuo no desenvolvimento de bots para Discord, automacoes e aplicacoes web. Meu foco esta em construir projetos funcionais, organizados e faceis de manter, sem deixar o visual de lado.
-
-Hoje trabalho principalmente com TypeScript, JavaScript, Python e Node.js, combinando front-end, integracoes e estrutura de codigo conforme a necessidade de cada projeto.
-
-      </td>
-      <td width="42%" valign="top">
-
-**Atuacao**
-
-- Bots e sistemas para comunidades
-- Automacoes para processos e rotinas
-- Paineis e ferramentas web
-- Melhorias de interface e experiencia
-
-**Em foco**
-
-- Design Digital e UX
-- Front-end mais refinado
-- Projetos mais consistentes e bem apresentados
-
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  Bots para Discord, automacoes e aplicacoes web com foco em estrutura e boa experiencia de uso.
+</p>
 
 <p align="center">
   TypeScript | JavaScript | Python | Node.js | HTML | CSS
