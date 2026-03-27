@@ -1,0 +1,28 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Belin7z profile header</title>
+  <desc id="desc">Gradient banner for the Belin7z GitHub profile README.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.5" stop-color="#0EA5E9"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="220" y1="40" x2="1060" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="320" rx="28" fill="url(#bg)"/>
+  <circle cx="1088" cy="78" r="150" fill="#FFFFFF" fill-opacity="0.08"/>
+  <circle cx="1180" cy="262" r="112" fill="#FFFFFF" fill-opacity="0.06"/>
+  <circle cx="164" cy="252" r="128" fill="#FFFFFF" fill-opacity="0.05"/>
+  <rect x="60" y="56" width="1160" height="208" rx="24" fill="url(#glow)"/>
+
+  <text x="88" y="132" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700">Belin7z</text>
+  <text x="88" y="180" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Full Stack Developer | Bots | Automation | Web Apps</text>
+  <text x="88" y="222" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400">Construindo projetos funcionais com foco em comunidade, interfaces e organizacao.</text>
+
+  <rect x="88" y="246" width="160" height="34" rx="17" fill="#0F172A" fill-opacity="0.44"/>
+  <text x="108" y="269" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">github.com/Belin7z</text>
+</svg>

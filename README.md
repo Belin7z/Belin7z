@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:f97316&height=220&section=header&text=Belin7z&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Bots%20%26%20Automation&descAlignY=58" alt="Header" />
+  <img width="100%" src="./assets/profile-header.svg" alt="Belin7z header" />
 </div>
 
 <div align="center">
@@ -79,15 +79,15 @@ const belin7z = {
 ## GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Belin7z&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=react&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belin7z&layout=compact&langs_count=10&size_weight=0.45&count_weight=0.55&theme=react&hide_border=true&card_width=420&custom_title=Linguagens%20mais%20usadas" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Belin7z&theme=github_dark" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Belin7z&theme=github_dark" alt="Top languages" />
 </div>
 
 <div align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=Belin7z&theme=react&hide_border=true" alt="GitHub streak" />
 </div>
 
-> O card de linguagens foi ajustado para mostrar mais stacks publicas e dar menos peso apenas aos maiores repositorios.
+> Os cards foram trocados para endpoints estaveis porque o deployment atual do `github-readme-stats.vercel.app` esta retornando `503`.
 
 ## Contribution Snake
 
