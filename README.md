@@ -22,37 +22,29 @@
 
 <table>
   <tr>
-    <td width="54%" valign="top">
+    <td width="56%" valign="top">
 
-```ts
-const belin7z = {
-  name: "Jefferson Alves",
-  username: "Belin7z",
-  role: "Full Stack Developer",
-  focus: ["Discord bots", "Automations", "Web apps", "UI/UX evolution"],
-  mainStack: ["TypeScript", "JavaScript", "Python", "Node.js", "HTML", "CSS"],
-  databases: ["MongoDB", "PostgreSQL"],
-  studying: "Design Digital e UX",
-  status: "Sempre construindo algo novo"
-};
-```
+**Jefferson Alves**, tambem conhecido como **Belin7z**.
+
+Hoje meu foco esta em criar bots para Discord, automacoes e projetos web que sejam uteis de verdade no dia a dia. Gosto de mexer tanto na parte funcional quanto no visual, principalmente quando o projeto precisa ficar mais organizado, rapido e facil de usar.
+
+Trabalho mais com **TypeScript, JavaScript, Python, Node.js, HTML e CSS**, e costumo explorar banco de dados, paineis web e melhorias de interface no mesmo projeto.
 
   </td>
-  <td width="46%" valign="top">
+  <td width="44%" valign="top">
 
-**O que voce vai encontrar por aqui**
+**Aqui no perfil voce vai ver**
 
-- Bots e sistemas para comunidade
-- Automacoes para reduzir trabalho manual
-- Interfaces web com mais cuidado visual
-- Projetos em evolucao com JS, TS e Python
+- Bots para comunidades e servidores
+- Ferramentas web e paineis
+- Automacoes para facilitar rotina
+- Projetos que ainda estou evoluindo
 
-**Interesses**
+**No momento**
 
-- Design e experiencia do usuario
-- Paineis e ferramentas web
-- Performance e organizacao de projeto
-- Freelance e colaboracoes
+- Estudando Design Digital e UX
+- Refinando front-end e organizacao de codigo
+- Aberto a colaboracoes e freelas
 
   </td>
   </tr>
