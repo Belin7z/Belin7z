@@ -5,7 +5,6 @@
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/Belin7z?style=for-the-badge&logo=github&label=Followers&color=0ea5e9&labelColor=0f172a)](https://github.com/Belin7z)
-[![Gmail](https://img.shields.io/badge/Gmail-xxthunryxx%40gmail.com-f97316?style=for-the-badge&logo=gmail&labelColor=0f172a)](mailto:xxthunryxx@gmail.com)
 ![Profile views](https://komarev.com/ghpvc/?username=Belin7z&style=for-the-badge&color=22c55e&labelColor=0f172a)
 
 </div>
@@ -16,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/Belin7z?tab=repositories">Repositorios</a> |
-  <a href="mailto:xxthunryxx@gmail.com">Contato</a>
+  <a href="https://github.com/Belin7z">Perfil</a>
 </p>
 
 ## Sobre mim
@@ -103,9 +102,6 @@ const belin7z = {
 ## Contato
 
 <div align="center">
-  <a href="mailto:xxthunryxx@gmail.com">
-    <img src="https://img.shields.io/badge/Email-xxthunryxx%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://github.com/Belin7z">
     <img src="https://img.shields.io/badge/GitHub-Belin7z-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
