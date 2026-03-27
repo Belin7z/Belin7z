@@ -4,13 +4,13 @@
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/Belin7z?style=for-the-badge&logo=github&label=Followers&color=0ea5e9&labelColor=0f172a)](https://github.com/Belin7z)
-![Profile views](https://komarev.com/ghpvc/?username=Belin7z&style=for-the-badge&color=22c55e&labelColor=0f172a)
+[![GitHub followers](https://img.shields.io/github/followers/Belin7z?style=for-the-badge&logo=github&label=Followers&color=7c3aed&labelColor=09090b)](https://github.com/Belin7z)
+![Profile views](https://komarev.com/ghpvc/?username=Belin7z&style=for-the-badge&color=ffffff&labelColor=09090b)
 
 </div>
 
 <p align="center">
-  Desenvolvo bots para Discord, automacoes e aplicacoes web com foco em entrega funcional, visual consistente e experiencia melhor para quem usa.
+  Desenvolvimento focado em bots, automacoes e aplicacoes web com mais estrutura, clareza e presenca visual.
 </p>
 
 <p align="center">
@@ -21,49 +21,73 @@
 ## Sobre mim
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1400&color=0EA5E9&center=true&vCenter=true&width=820&lines=Oi%2C+eu+sou+o+Belin7z;Full+Stack+Developer;Criando+bots+para+Discord;Automacoes%2C+paineis+e+projetos+web;Estudando+Design+Digital+e+UX" alt="Sobre mim animado" />
+  <table>
+    <tr>
+      <td width="58%" valign="top">
+
+Atuo no desenvolvimento de bots para Discord, automacoes e aplicacoes web. Meu foco esta em construir projetos funcionais, organizados e faceis de manter, sem deixar o visual de lado.
+
+Hoje trabalho principalmente com TypeScript, JavaScript, Python e Node.js, combinando front-end, integracoes e estrutura de codigo conforme a necessidade de cada projeto.
+
+      </td>
+      <td width="42%" valign="top">
+
+**Atuacao**
+
+- Bots e sistemas para comunidades
+- Automacoes para processos e rotinas
+- Paineis e ferramentas web
+- Melhorias de interface e experiencia
+
+**Em foco**
+
+- Design Digital e UX
+- Front-end mais refinado
+- Projetos mais consistentes e bem apresentados
+
+      </td>
+    </tr>
+  </table>
 </div>
 
 <p align="center">
-  TypeScript • JavaScript • Python • Node.js • HTML • CSS
+  TypeScript | JavaScript | Python | Node.js | HTML | CSS
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Foco-Bots%20%7C%20Automacoes%20%7C%20Web-0f172a?style=for-the-badge&labelColor=0ea5e9" alt="Foco" />
-  <img src="https://img.shields.io/badge/Atualmente-Design%20Digital%20e%20UX-f97316?style=for-the-badge&labelColor=0f172a" alt="Atualmente" />
-  <img src="https://img.shields.io/badge/Status-Projetos%20em%20evolucao-22c55e?style=for-the-badge&labelColor=0f172a" alt="Status" />
+  <img src="https://img.shields.io/badge/Foco-Bots%20%7C%20Automacoes%20%7C%20Web-7c3aed?style=for-the-badge&labelColor=09090b" alt="Foco" />
+  <img src="https://img.shields.io/badge/Atual-Design%20Digital%20e%20UX-ffffff?style=for-the-badge&labelColor=09090b&logoColor=09090b" alt="Atual" />
+  <img src="https://img.shields.io/badge/Status-Projetos%20em%20evolucao-7c3aed?style=for-the-badge&labelColor=09090b" alt="Status" />
 </div>
 
 ## Stack
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-09090b?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-09090b?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-09090b?style=for-the-badge&logo=python&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-09090b?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-09090b?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-09090b?style=for-the-badge&logo=css3&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-09090b?style=for-the-badge&logo=mongodb&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-09090b?style=for-the-badge&logo=postgresql&logoColor=ffffff)
+![Discord.js](https://img.shields.io/badge/Discord.js-09090b?style=for-the-badge&logo=discord&logoColor=ffffff)
+![PowerShell](https://img.shields.io/badge/PowerShell-09090b?style=for-the-badge&logo=powershell&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS_Code-09090b?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 
 </div>
 
 ## GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Belin7z&theme=github_dark" alt="GitHub stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Belin7z&theme=github_dark" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Belin7z&theme=midnight_purple" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Belin7z&theme=midnight_purple" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Belin7z&theme=react&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Belin7z&theme=midnight-purple&hide_border=true" alt="GitHub streak" />
 </div>
-
-> Os cards foram trocados para endpoints estaveis porque o deployment atual do `github-readme-stats.vercel.app` esta retornando `503`.
 
 ## Contribution Snake
 
@@ -79,10 +103,10 @@
 
 <div align="center">
   <a href="https://github.com/Belin7z">
-    <img src="https://img.shields.io/badge/GitHub-Belin7z-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Belin7z-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=09090b" alt="GitHub" />
   </a>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:f97316&height=120&section=footer" alt="Footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,100:7c3aed&height=120&section=footer" alt="Footer" />
 </div>

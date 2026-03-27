@@ -1,28 +1,34 @@
 <svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Belin7z profile header</title>
-  <desc id="desc">Gradient banner for the Belin7z GitHub profile README.</desc>
+  <desc id="desc">Dark purple banner for the Belin7z GitHub profile README.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0F172A"/>
-      <stop offset="0.5" stop-color="#0EA5E9"/>
-      <stop offset="1" stop-color="#F97316"/>
+      <stop stop-color="#09090B"/>
+      <stop offset="0.52" stop-color="#18181B"/>
+      <stop offset="1" stop-color="#6D28D9"/>
     </linearGradient>
-    <linearGradient id="glow" x1="220" y1="40" x2="1060" y2="280" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FFFFFF" stop-opacity="0.22"/>
+    <radialGradient id="orbLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(238 80) rotate(37.5) scale(284 194)">
+      <stop stop-color="#A855F7" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1040 242) rotate(150) scale(320 220)">
+      <stop stop-color="#FFFFFF" stop-opacity="0.16"/>
       <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
-    </linearGradient>
+    </radialGradient>
   </defs>
 
   <rect width="1280" height="320" rx="28" fill="url(#bg)"/>
-  <circle cx="1088" cy="78" r="150" fill="#FFFFFF" fill-opacity="0.08"/>
-  <circle cx="1180" cy="262" r="112" fill="#FFFFFF" fill-opacity="0.06"/>
-  <circle cx="164" cy="252" r="128" fill="#FFFFFF" fill-opacity="0.05"/>
-  <rect x="60" y="56" width="1160" height="208" rx="24" fill="url(#glow)"/>
+  <rect x="32" y="28" width="1216" height="264" rx="24" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <circle cx="238" cy="80" r="190" fill="url(#orbLeft)"/>
+  <circle cx="1040" cy="242" r="210" fill="url(#orbRight)"/>
 
-  <text x="88" y="132" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700">Belin7z</text>
-  <text x="88" y="180" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Full Stack Developer | Bots | Automation | Web Apps</text>
-  <text x="88" y="222" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400">Construindo projetos funcionais com foco em comunidade, interfaces e organizacao.</text>
+  <path d="M0 256C130 220 197 168 320 168C452 168 506 228 646 228C796 228 862 140 996 140C1096 140 1168 180 1280 208V320H0V256Z" fill="#FFFFFF" fill-opacity="0.035"/>
+  <path d="M0 276C140 240 228 206 356 206C474 206 552 248 672 248C814 248 880 182 1012 182C1118 182 1190 214 1280 238V320H0V276Z" fill="#A855F7" fill-opacity="0.10"/>
 
-  <rect x="88" y="246" width="160" height="34" rx="17" fill="#0F172A" fill-opacity="0.44"/>
-  <text x="108" y="269" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">github.com/Belin7z</text>
+  <text x="88" y="134" fill="#FAFAFA" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700">Belin7z</text>
+  <text x="88" y="182" fill="#E4E4E7" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Bots, automacoes e aplicacoes web</text>
+  <text x="88" y="220" fill="#D4D4D8" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="400">Projetos com foco em estrutura, experiencia de uso e apresentacao visual.</text>
+
+  <rect x="88" y="244" width="178" height="36" rx="18" fill="#09090B" fill-opacity="0.72" stroke="#FFFFFF" stroke-opacity="0.10"/>
+  <text x="108" y="268" fill="#FAFAFA" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">github.com/Belin7z</text>
 </svg>
