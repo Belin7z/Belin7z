@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  Desenvolvimento focado em bots, automações e aplicações web com mais estrutura, clareza e presença visual.
+  Desenvolvimento focado em bots, automações e aplicações web com mais estrutura e claras e estruturadas.
 </p>
 
 <p align="center">
