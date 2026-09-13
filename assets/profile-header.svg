@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Belin7z profile header</title>
+  <desc id="desc">Deep-space banner for the Belin7z GitHub profile README.</desc>
+  <defs>
+    <linearGradient id="space" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000000"/>
+      <stop offset="0.5" stop-color="#0b0713"/>
+      <stop offset="1" stop-color="#1e1033"/>
+    </linearGradient>
+    <radialGradient id="nebulaViolet" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 60) rotate(110) scale(420 300)">
+      <stop stop-color="#6D28D9" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#6D28D9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="nebulaBlue" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(160 280) rotate(-40) scale(360 240)">
+      <stop stop-color="#4C1D95" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#4C1D95" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="shootFade" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.7"/>
+    </linearGradient>
+    <radialGradient id="vignette" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(640 160) scale(760 420)">
+      <stop offset="0" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="0.65" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.55"/>
+    </radialGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="cardClip">
+      <rect width="1280" height="320" rx="28"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1280" height="320" rx="28" fill="url(#space)"/>
+
+  <g clip-path="url(#cardClip)">
+
+  <circle cx="980" cy="60" r="300" fill="url(#nebulaViolet)"/>
+  <circle cx="160" cy="280" r="260" fill="url(#nebulaBlue)"/>
+
+  <g>
+    <circle cx="810.1" cy="23.2" r="0.86" fill="#FFFFFF" opacity="0.4"/>
+    <circle cx="928.5" cy="210.9" r="1.66" fill="#FFFFFF" opacity="0.31"/>
+    <circle cx="544.7" cy="24.6" r="0.78" fill="#FFFFFF" opacity="0.58"/>
+    <circle cx="62.4" cy="73.3" r="1.34" fill="#FFFFFF" opacity="0.6"/>
+    <circle cx="298.9" cy="185.7" r="1.55" fill="#FFFFFF" opacity="0.25"/>
+    <circle cx="1013.1" cy="217.1" r="0.94" fill="#FFFFFF" opacity="0.35"/>
+    <circle cx="1197.8" cy="112.9" r="0.62" fill="#FFFFFF" opacity="0.31"/>
+    <circle cx="1063.9" cy="189.9" r="1.55" fill="#FFFFFF" opacity="0.55"/>
+    <circle cx="684.2" cy="296.3" r="0.99" fill="#FFFFFF" opacity="0.61"/>
+    <circle cx="1041.9" cy="194.1" r="1.4" fill="#FFFFFF" opacity="0.5"/>
+    <circle cx="889.6" cy="29.2" r="0.8" fill="#FFFFFF" opacity="0.44"/>
+    <circle cx="127.3" cy="83.0" r="0.63" fill="#FFFFFF" opacity="0.43"/>
+    <circle cx="805.5" cy="121.1" r="0.98" fill="#FFFFFF" opacity="0.39"/>
+    <circle cx="355.7" cy="285.8" r="1.34" fill="#FFFFFF" opacity="0.5"/>
+    <circle cx="238.8" cy="226.0" r="0.71" fill="#FFFFFF" opacity="0.5"/>
+    <circle cx="1237.2" cy="200.3" r="1.22" fill="#FFFFFF" opacity="0.55"/>
+    <circle cx="1058.3" cy="239.5" r="0.8" fill="#FFFFFF" opacity="0.27"/>
+    <circle cx="414.9" cy="93.1" r="0.77" fill="#FFFFFF" opacity="0.7"/>
+    <circle cx="1099.2" cy="106.6" r="1.35" fill="#FFFFFF" opacity="0.45"/>
+    <circle cx="1145.7" cy="148.1" r="0.84" fill="#FFFFFF" opacity="0.41"/>
+    <circle cx="714.9" cy="91.7" r="1.26" fill="#FFFFFF" opacity="0.65"/>
+    <circle cx="517.3" cy="79.2" r="1.5" fill="#FFFFFF" opacity="0.5"/>
+    <circle cx="140.9" cy="29.6" r="0.64" fill="#FFFFFF" opacity="0.6"/>
+    <circle cx="996.3" cy="137.6" r="0.58" fill="#FFFFFF" opacity="0.5"/>
+    <circle cx="1245.3" cy="168.4" r="1.5" fill="#FFFFFF" opacity="0.6"/>
+    <circle cx="44.0" cy="223.6" r="1.2" fill="#FFFFFF" opacity="0.55"/>
+    <circle cx="355.5" cy="200.6" r="0.65" fill="#FFFFFF" opacity="0.53"/>
+    <circle cx="583.5" cy="290.7" r="1.4" fill="#FFFFFF" opacity="0.4"/>
+    <circle cx="640.7" cy="67.5" r="1.4" fill="#FFFFFF" opacity="0.65"/>
+    <circle cx="394.1" cy="200.0" r="1.1" fill="#FFFFFF" opacity="0.35"/>
+    <circle cx="960.3" cy="171.3" r="1.3" fill="#FFFFFF" opacity="0.5"/>
+    <circle cx="30.7" cy="109.4" r="0.53" fill="#FFFFFF" opacity="0.7"/>
+    <circle cx="1102.0" cy="255.5" r="0.9" fill="#FFFFFF" opacity="0.29"/>
+    <circle cx="1101.2" cy="288.7" r="0.61" fill="#FFFFFF" opacity="0.57"/>
+    <circle cx="114.4" cy="235.1" r="1.3" fill="#FFFFFF" opacity="0.33"/>
+    <circle cx="609.8" cy="174.3" r="0.84" fill="#FFFFFF" opacity="0.6"/>
+    <circle cx="546.2" cy="77.0" r="1.1" fill="#FFFFFF" opacity="0.6"/>
+    <circle cx="275.4" cy="105.8" r="1.5" fill="#FFFFFF" opacity="0.55"/>
+    <circle cx="564.5" cy="165.1" r="0.66" fill="#FFFFFF" opacity="0.4"/>
+    <circle cx="442.5" cy="185.4" r="0.8" fill="#FFFFFF" opacity="0.39"/>
+    <circle cx="116.6" cy="197.8" r="0.8" fill="#FFFFFF" opacity="0.65"/>
+    <circle cx="1078.8" cy="36.4" r="0.81" fill="#FFFFFF" opacity="0.6"/>
+    <circle cx="291.4" cy="54.1" r="1.5" fill="#FFFFFF" opacity="0.55"/>
+    <circle cx="606.7" cy="242.0" r="1.3" fill="#FFFFFF" opacity="0.37"/>
+    <circle cx="148.3" cy="140.1" r="1.05" fill="#FFFFFF" opacity="0.5"/>
+    <circle cx="919.5" cy="209.9" r="1.5" fill="#FFFFFF" opacity="0.31"/>
+    <circle cx="521.2" cy="113.7" r="1.4" fill="#FFFFFF" opacity="0.41"/>
+    <circle cx="262.1" cy="145.2" r="1.05" fill="#FFFFFF" opacity="0.43"/>
+    <circle cx="334.8" cy="281.9" r="1.08" fill="#FFFFFF" opacity="0.6"/>
+    <circle cx="701.4" cy="30.6" r="1.5" fill="#FFFFFF" opacity="0.65"/>
+    <circle cx="1212.2" cy="282.8" r="1.4" fill="#FFFFFF" opacity="0.36"/>
+    <circle cx="622.5" cy="77.6" r="1.02" fill="#FFFFFF" opacity="0.29"/>
+    <circle cx="492.3" cy="299.8" r="0.84" fill="#FFFFFF" opacity="0.6"/>
+    <circle cx="708.0" cy="222.9" r="0.7" fill="#FFFFFF" opacity="0.44"/>
+  </g>
+
+  <line x1="1000" y1="30" x2="1080" y2="58" stroke="url(#shootFade)" stroke-width="1.4" stroke-linecap="round"/>
+  <circle cx="1080" cy="58" r="1.8" fill="#FFFFFF" opacity="0.85"/>
+
+  <path d="M517.3 79.2 L640.7 67.5 L714.9 91.7 L805.5 121.1" fill="none" stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="0.75"/>
+  <circle cx="517.3" cy="79.2" r="2" fill="#FFFFFF" opacity="0.75"/>
+  <circle cx="640.7" cy="67.5" r="2.1" fill="#FFFFFF" opacity="0.85"/>
+  <circle cx="714.9" cy="91.7" r="1.9" fill="#FFFFFF" opacity="0.8"/>
+  <circle cx="805.5" cy="121.1" r="1.7" fill="#FFFFFF" opacity="0.7"/>
+
+  <rect width="1280" height="320" fill="url(#vignette)"/>
+
+  <text x="640" y="148" text-anchor="middle" fill="#A1A1AA" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="6">JEFFERSON ALVES</text>
+  <text x="640" y="226" text-anchor="middle" fill="#FAFAFA" font-family="Segoe UI, Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="0.5" filter="url(#glow)">Belin7z</text>
+
+  </g>
+
+  <rect x="1" y="1" width="1278" height="318" rx="27" stroke="#FFFFFF" stroke-opacity="0.08"/>
+</svg>
