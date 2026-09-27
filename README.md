@@ -7,6 +7,16 @@
   Programo por hobby: pego um projeto pequeno, termino ele, e saio sabendo mais do que quando comecei.
 </p>
 
+## Projetos
+
+**[vdb.belin7z](https://belin7z.vercel.app/)** — o fundo de galáxia inteiro (estrelas, nebulosas, cometas) é canvas puro, desenhado à mão, sem tsparticles nem three.js. Além disso: presença do Discord e "ouvindo agora" do Spotify em tempo real via Lanyard, contador de visitas com Redis. Next.js + TypeScript + Tailwind. ([código](https://github.com/Belin7z/vdb.belin7z))
+
+Painel de monitoramento em tempo real pra operação de logística — fila de veículos, ocupação de doca, status de descarregamento, tudo sincronizado com o Supabase. **[Inbound-SPX](https://github.com/Belin7z/Inbound-SPX)**: React + Supabase + Tailwind.
+
+Um desktop inteiro dentro do navegador, no estilo Windows 11: janelas arrastáveis, taskbar, terminal. **[Web-pc](https://belin7z.github.io/Web-pc/)** é React + TypeScript + Vite. ([código](https://github.com/Belin7z/Web-pc))
+
+**[PulseView](https://github.com/Belin7z/PulseView)** — relógio digital visual neon com pomodoro e alarmes múltiplos, PWA instalável. Vanilla JS, sem framework nenhum.
+
 ## Stack
 
 <div align="center">
