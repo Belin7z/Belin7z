@@ -34,5 +34,5 @@ Um desktop inteiro dentro do navegador, no estilo Windows 11: janelas arrastáve
 ## Contato
 
 <div align="center">
-  <a href="https://github.com/Belin7z">GitHub</a> · <a href="https://www.linkedin.com/in/jefferson-alves-belin7z/">LinkedIn</a>
+  <a href="https://github.com/Belin7z">GitHub</a> · <a href="https://www.linkedin.com/in/Belin7z/">LinkedIn</a>
 </div>
