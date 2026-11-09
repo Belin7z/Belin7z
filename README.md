@@ -6,7 +6,7 @@
 
 <img src="./assets/terminal.svg" alt="" width="380" align="right" />
 
-## Fala! Eu sou Jefferson 👋
+### Fala! Eu sou Jefferson 👋
 
 🇧🇷 Brasil · 💜 Programo por hobby
 
