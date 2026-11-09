@@ -1,0 +1,10 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Terminal com um resumo sobre Jefferson">
+<style>
+.p{font:600 15px ui-monospace,SFMono-Regular,'Cascadia Code',Consolas,Menlo,monospace;fill:#C4B5FD}.r{font:400 15px ui-monospace,SFMono-Regular,'Cascadia Code',Consolas,Menlo,monospace;fill:#E4E4EF}
+.b{font:500 13px ui-monospace,SFMono-Regular,'Cascadia Code',Consolas,Menlo,monospace;fill:#8B8BA7}
+</style>
+<rect x=".5" y=".5" width="399" height="299" rx="14" fill="#0D0B14" stroke="#2F2450"/>
+<path d="M1 44V15a14 14 0 0 1 14-14h370a14 14 0 0 1 14 14v29z" fill="#171228"/>
+<circle cx="24" cy="23" r="6" fill="#F87171"/><circle cx="44" cy="23" r="6" fill="#FBBF24"/><circle cx="64" cy="23" r="6" fill="#34D399"/>
+<text x="200" y="27" text-anchor="middle" class="b">belin7z@github</text>
+<text x="24" y="74" xml:space="preserve" class="p">$ whoami</text><text x="24" y="99" xml:space="preserve" class="r">jefferson alves (belin7z)</text><text x="24" y="133" xml:space="preserve" class="p">$ cat faço.txt</text><text x="24" y="158" xml:space="preserve" class="r">sites, painéis, apps android, bots</text><text x="24" y="192" xml:space="preserve" class="p">$ ls stack/</text><text x="24" y="217" xml:space="preserve" class="r">typescript  python  java  postgres</text><text x="24" y="251" xml:space="preserve" class="p">$ git status</text><text x="24" y="276" xml:space="preserve" class="r">sempre tem coisa nova pra subir</text></svg>
